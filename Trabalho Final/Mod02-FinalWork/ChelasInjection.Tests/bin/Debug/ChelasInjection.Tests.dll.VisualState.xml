@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1026]C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\ChelasInjection.Tests\bin\Debug\ChelasInjection.Tests.dll</TopNode>
+  <SelectedNode>[0-1016]ChelasInjection.Tests.ChelasInjectionTests.ShouldChooseTheConstructorAnotatedWithDefaulAttributeForISomeInterface5</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1026]C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\ChelasInjection.Tests\bin\Debug\ChelasInjection.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1027]ChelasInjection" Expanded="true" />
+    <Node UniqueName="[0-1028]ChelasInjection.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]ChelasInjection.Tests.ChelasInjectionTests" Expanded="true" />
+  </Nodes>
+</VisualState>

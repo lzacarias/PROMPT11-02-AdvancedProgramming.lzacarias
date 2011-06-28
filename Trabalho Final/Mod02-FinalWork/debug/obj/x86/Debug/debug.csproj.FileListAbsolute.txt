@@ -1,0 +1,13 @@
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\debug\bin\Debug\debug.exe
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\debug\bin\Debug\debug.pdb
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\debug\bin\Debug\ChelasInjection.dll
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\debug\bin\Debug\ChelasInjection.Tests.dll
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\debug\bin\Debug\ChelasInjection.SampleTypes.dll
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\debug\bin\Debug\nunit.framework.dll
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\debug\bin\Debug\ChelasInjection.Tests.pdb
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\debug\bin\Debug\ChelasInjection.pdb
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\debug\bin\Debug\ChelasInjection.SampleTypes.pdb
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\debug\bin\Debug\nunit.framework.xml
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\debug\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\debug\obj\x86\Debug\debug.exe
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\debug\obj\x86\Debug\debug.pdb

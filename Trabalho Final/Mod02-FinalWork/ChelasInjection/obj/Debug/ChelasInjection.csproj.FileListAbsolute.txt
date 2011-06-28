@@ -1,0 +1,5 @@
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\ChelasInjection\bin\Debug\ChelasInjection.dll
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\ChelasInjection\bin\Debug\ChelasInjection.pdb
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\ChelasInjection\obj\Debug\ResolveAssemblyReference.cache
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\ChelasInjection\obj\Debug\ChelasInjection.dll
+C:\Prompt11\PROMPT11\uc01\repos\PROMPT11-02-AdvancedProgramming.lzacarias\Trabalho Final\Mod02-FinalWork\ChelasInjection\obj\Debug\ChelasInjection.pdb
